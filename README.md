@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://dev.to/prajwal056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prajwal056" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19292411/prajwal-k-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19292411/prajwal-k-rao" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prajwal-k-rao-8602441b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prajwal-k-rao- 8602441b7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prajwa056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prajwa056" height="30" width="40" /></a>
