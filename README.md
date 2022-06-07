@@ -1,5 +1,5 @@
-![](https://github.com/Prajwal056/Readme/blob/main/images/banner%20(1).png)
-<div align="left">
+![](https://github.com/Prajwal056/Readme/blob/main/banner.png)
+<div align="center">
   <a href="https://app.daily.dev/prajwal056" target="_blank">
     <img
       width="256"
