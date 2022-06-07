@@ -11,13 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **Fog computing**
-
-- 🌱 I’m currently learning **DevOps,Node.js etc.**
-
-- 💬 Ask me about **iFogSim, Database, git, Linux etc.**
-
-- 📫 How to reach me **prajwal.krao.pkr@gmail.com**
+![metrics](https://metrics.lecoq.io/prajwal056) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
