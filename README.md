@@ -101,11 +101,11 @@
       align="left"
       src="https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta"
     />
-    <img
+<!--     <img
       align="right"
-      src="https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&base.hireable=false&stars.limit=4&config.timezone=Asia%2FCalcutta"
+      src="https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&base.hireable=false&stars.limit=4&config.timezone=Asia%2FCalcutta" 
     />
-	
+	-->
   </a>
 </div>
 
