@@ -73,9 +73,6 @@
 </details>
 
 
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prajwal056&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prajwal056)  
