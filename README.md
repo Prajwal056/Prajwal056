@@ -12,7 +12,7 @@
   </a>
 </div>
 
-![metrics](https://metrics.lecoq.io/prajwal056) 
+![Metrics](https://metrics.lecoq.io/Prajwal056?template=classic&repositories=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FCalcutta)
 
 
 ## My Skill Set  
