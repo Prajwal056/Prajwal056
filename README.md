@@ -29,6 +29,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PythonMysql_Connection](https://dev.to/prajwal056/pythonmysqlconnection-1441)
 <!-- BLOG-POST-LIST:END -->
 
 
