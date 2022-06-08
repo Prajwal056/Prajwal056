@@ -86,10 +86,25 @@
 <a href="https://www.hackerrank.com/prajwa056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prajwa056" height="30" width="40" /></a>
  </p>
 <!-- -->
-![Metrics](https://github.com/Prajwal056/Prajwal056/blob/main/github-metrics.svg)
+
+
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/Prajwal056/Prajwal056/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
+
+
+
+<div align="right">
+  <a href="https://app.daily.dev/prajwal056" target="_blank">
+    <img
+      width="456"
+      align="right"
+      src="https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&base.hireable=false&stars.limit=4&config.timezone=Asia%2FCalcutta"
+    />
+  </a>
+</div>
+
+![Metrics](https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta)
