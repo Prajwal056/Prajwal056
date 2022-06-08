@@ -63,13 +63,12 @@
 - [PythonMysql_Connection](https://dev.to/prajwal056/pythonmysqlconnection-1441)
 <!-- BLOG-POST-LIST:END -->
 # 
-</details>
+
+
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
 ----
-
-<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/7oSkaaa"><img alt="Prajwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prajwal056&custom_title=Prajwal's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
 
@@ -83,7 +82,6 @@
 
 <!-- Connect With ME-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibre&size=24&color=F7F6E3&lines=%F0%9F%93%A3+Connect+With+Me)](https://git.io/typing-svg)
-
 <p align="left">
  <a href="https://dev.to/prajwal056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prajwal056" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19292411/prajwal-k-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19292411/prajwal-k-rao" height="30" width="40" /></a>
@@ -91,6 +89,7 @@
 <a href="https://www.hackerrank.com/prajwa056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prajwa056" height="30" width="40" /></a>
  </p>
 <!-- -->
+![Metrics](https://github.com/Prajwal056/Prajwal056/blob/main/github-metrics.svg)
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
