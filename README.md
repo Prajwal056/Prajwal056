@@ -95,17 +95,20 @@
 	<img src = "https://github.com/Prajwal056/Prajwal056/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 
-<div align="right">
+<div align="center">
   <a href="https://app.daily.dev/prajwal056" target="_blank">
     <img
-      width="480" 
-      height="295"
-      align="right"
-      font-size:"14px"
-      src="https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&lines=1&base.indepth=false&base.hireable=false&stars.limit=4&config.timezone=Asia%2FCalcutta"
+      align="left"
+      src="https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta"
     />
-  </a>
-</div
+    <img
+      align="right"
+      src="https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&base.hireable=false&stars.limit=4&config.timezone=Asia%2FCalcutta"
+    />
 	
+  </a>
+</div>
 
-![Metrics](https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FCalcutta)
+
+
+
