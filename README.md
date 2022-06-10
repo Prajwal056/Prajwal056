@@ -1,4 +1,4 @@
-![Banner](https://github.com/Prajwal056/Readme/blob/main/banner.png) <!-- create banner -->
+![Banner](https://github.com/Prajwal056/Readme/blob/main/B2.png) <!-- create banner -->
 
 <!-- DevCard-->
 ![Profile views](https://gpvc.arturio.dev/prajwal056)
