@@ -106,7 +106,7 @@
 	<img src = "https://github.com/Prajwal056/Prajwal056/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
 <p>
-<img align="right" src="https://metrics.lecoq.io/Prajwal056?template=classic&followup=1&base.indepth=false&base.hireable=false&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FCalcutta" alt="Metrics" width="400">
+
 
 <img align="center" src="https://metrics.lecoq.io/Prajwal056?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stars=1&base.indepth=false&base.hireable=false&stars.limit=4&config.timezone=Asia%2FCalcutta" alt="Metrics" width="400">
 	</p>
