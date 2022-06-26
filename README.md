@@ -70,6 +70,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux and Bash Command Cheat Sheet: The Basics](https://dev.to/prajwal056/linux-and-bash-command-cheat-sheet-the-basics-1a1c)
 - [📝 Learn JavaScript the right way with this beginner&#39;s cheat sheet](https://dev.to/prajwal056/learn-javascript-the-right-way-with-this-beginners-cheat-sheet-3m85)
 - [🔗PythonMysql_Connection](https://dev.to/prajwal056/pythonmysqlconnection-1441)
 <!-- BLOG-POST-LIST:END -->
