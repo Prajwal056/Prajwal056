@@ -53,6 +53,13 @@
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/prajwal056">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prajwal056&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prajwal056&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Linux and Bash Command Cheat Sheet: The Basics](https://dev.to/prajwal056/linux-and-bash-command-cheat-sheet-the-basics-1a1c)
