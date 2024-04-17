@@ -2,7 +2,7 @@
 
 <!-- DevCard-->
 
-<img alt="Night Coding" src="https://github.com/Prajwal056/Prajwal056/blob/main/assects/Hand%20Wave.gif" width='40' align="left"/>
+<!-- <img alt="Night Coding" src="https://github.com/Prajwal056/Prajwal056/blob/main/assects/Hand%20Wave.gif" width='40' align="left"/>-->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/prajwal056) -->
 
