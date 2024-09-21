@@ -1,6 +1,7 @@
 ![Banner](https://github.com/Prajwal056/Prajwal056/blob/main/assects/B2.png) <!-- create banner -->
 
 <!-- This is an image -->
+
 <!-- DevCard-->
 
 <!-- <img alt="Night Coding" src="https://github.com/Prajwal056/Prajwal056/blob/main/assects/Hand%20Wave.gif" width='40' align="left"/>-->
