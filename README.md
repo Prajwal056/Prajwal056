@@ -1,5 +1,6 @@
 ![Banner](https://github.com/Prajwal056/Prajwal056/blob/main/assects/B2.png) <!-- create banner -->
 
+<!-- This is an image -->
 <!-- DevCard-->
 
 <!-- <img alt="Night Coding" src="https://github.com/Prajwal056/Prajwal056/blob/main/assects/Hand%20Wave.gif" width='40' align="left"/>-->
@@ -15,7 +16,6 @@
     />
   </a>
 </div>
-
 
 ![Metrics](https://github.com/Prajwal056/Prajwal056/blob/main/assects/github-metrics.svg)
 
@@ -37,12 +37,16 @@
 </p>
 
 ### 📝 &nbsp;Blog posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Linux and Bash Command Cheat Sheet: The Basics](https://dev.to/prajwal056/linux-and-bash-command-cheat-sheet-the-basics-1a1c)
 - [📝 Learn JavaScript the right way with this beginner&#39;s cheat sheet](https://dev.to/prajwal056/learn-javascript-the-right-way-with-this-beginners-cheat-sheet-3m85)
 - [🔗PythonMysql_Connection](https://dev.to/prajwal056/pythonmysqlconnection-1441)
 <!-- BLOG-POST-LIST:END -->
+
 #
+
 <!-- Connect With ME-->
 <p align="left">
 <img alt="Night Coding" src="https://readme-typing-svg.herokuapp.com?font=calibre&size=24&color=F7F6E3&lines=%F0%9F%93%A3+Connect+With+Me" align="left">
@@ -51,9 +55,3 @@
 <a href="https://www.linkedin.com/in/prajwal-k-rao-8602441b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prajwal-k-rao- 8602441b7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prajwa056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prajwa056" height="30" width="40" /></a>
  </p>
-
-
-
-	
-
-
